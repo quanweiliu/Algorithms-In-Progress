@@ -1,5 +1,6 @@
 # 左程云
 ## 动态规划前瞻：暴力递归
+- https://www.bilibili.com/video/BV13g41157hK?p=11&vd_source=4171a25ca2d283078a37ef831fa97b96
 
 暴力递归就是尝试
 1，把问题转化为规模缩小了的同类问题的子问题
